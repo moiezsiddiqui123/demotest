@@ -8,9 +8,9 @@ import org.springframework.data.mongodb.config.EnableMongoAuditing;
 @SpringBootApplication
 @EnableMongoAuditing
 @EnableJSONDoc
-public class MongotestApplication {
+public class MongotestMainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MongotestApplication.class, args);
+		SpringApplication.run(MongotestMainApplication.class, args);
 	}
 }

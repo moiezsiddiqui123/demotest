@@ -1,5 +1,7 @@
-package com.example.demo;
+package com.example.demo.test;
 
+import com.example.demo.test.Address;
+import com.example.demo.test.BaseEntity;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 import org.springframework.stereotype.Component;

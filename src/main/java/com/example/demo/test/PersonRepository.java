@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.test;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;

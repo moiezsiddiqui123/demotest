@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.test;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.domain.AuditorAware;
