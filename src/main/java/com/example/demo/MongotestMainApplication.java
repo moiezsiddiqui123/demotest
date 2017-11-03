@@ -11,6 +11,7 @@ import org.springframework.data.mongodb.config.EnableMongoAuditing;
 public class MongotestMainApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MongotestMainApplication.class, args);
 	}
 }
